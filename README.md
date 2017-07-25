@@ -7,5 +7,5 @@
 
 <details>
 <summary> What's this </summary>
-Just some stuff here
+* Just some stuff here
 </details>
